@@ -1,0 +1,21 @@
+## 特别注意
+ - 此插件需要配合[solusvmplus](https://github.com/CoiaPrant/WHMCS_Module_solusvmplus)使用
+
+## 使用方法
+ - 把插件目录直接扔到 WHMCS/modules/addons 下即可
+ - 在WHMCS激活插件
+
+## 特性
+- 支持TCP/UDP/HTTP/HTTPS
+- 不需要设置HTTPS证书 自动穿透
+
+## BUG反馈
+有问题直接提ISSUE
+不会用建议[TG有偿服务](https://t.me/CoiaPrant)
+ - [Telegram频道](https://t.me/CoiaPrant_Blog)
+ - [Telegram群](https://t.me/vpstalking)
+ - [Telegram私聊](https://t.me/CoiaPrant)
+
+## 赞助
+![zfb.jpg](https://www.zeroteam.top/images/zfb.jpg)
+![wx.png](https://www.zeroteam.top/images/wx.png)
