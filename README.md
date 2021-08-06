@@ -1,3 +1,6 @@
+## 公告
+ - 此开源仓库停止维护，做开源项目还被喷那我干嘛做他
+ - 有需要联系TG，尽可能帮助
 ## 特别注意
  - 此插件需要配合[solusvmplus](https://github.com/CoiaPrant/WHMCS_Module_solusvmplus)使用
 
