@@ -18,7 +18,3 @@
  - [Telegram频道](https://t.me/CoiaPrant_Blog)
  - [Telegram群](https://t.me/vpstalking)
  - [Telegram私聊](https://t.me/CoiaPrant)
-
-## 赞助
-![zfb.jpg](https://www.zeroteam.top/images/zfb.jpg)
-![wx.png](https://www.zeroteam.top/images/wx.png)
